@@ -1,0 +1,283 @@
+﻿aa_dic_type,subtype,ssubtype,English,Karaoké,Thaï
+alph,"[""all"", ""g""]",,,tcho katcheu,ฌ
+alph,"[""all"", ""g""]",,,yo ying,ญ
+alph,"[""all"", ""g""]",,,do shadaa,ฎ
+alph,"[""all"", ""g""]",,,no nén,ณ
+alph,"[""all"", ""g""]",,,lo leu,ฤ
+alph,"[""all"", ""k""]",,,khro khraï,ข
+alph,"[""all"", ""k""]",,,khro khrwaï,ค
+alph,"[""all"", ""k""]",,,khro khrone,ฅ
+alph,"[""all"", ""k""]",,,khro lakhran,ฆ
+alph,"[""all"", ""p"", ""g""]",,,phro samphrao,ภ
+alph,"[""all"", ""p""]",,,po pa,ป
+alph,"[""all"", ""p""]",,,phro phrüng,ผ
+alph,"[""all"", ""p""]",,,phro phran,พ
+alph,"[""all"", ""s""]",,,so so/ço ço,ซ
+alph,"[""all"", ""s""]",,,so saLa/ço çaLa,ศ
+alph,"[""all"", ""s""]",,,so luci/ço luçi,ษ
+alph,"[""all"", ""s""]",,,so süa/ço çüa,ส
+alph,"[""all"", ""t"", ""g""]",,,dto padtak,ฏ
+alph,"[""all"", ""t"", ""g""]",,,tho thoung,ถ
+alph,"[""all"", ""t""]",,,tho than,ฐ
+alph,"[""all"", ""t""]",,,tho nang montho,ฑ
+alph,"[""all"", ""t""]",,,tho pouthao,ฒ
+alph,"[""all"", ""t""]",,,dto dtao,ต
+alph,"[""all"", ""t""]",,,tho thahan,ท
+alph,"[""all"", ""t""]",,,tho thong,ธ
+alph,"[""all""]",,,ng[on] ngou,ง
+alph,"[""all""]",,,djo djan,จ
+alph,"[""all""]",,,tcho tching,ฉ
+alph,"[""all""]",,,tcho tchang,ช
+alph,"[""all""]",,,do dek,ด
+alph,"[""all""]",,,bo baï maï,บ
+alph,"[""all""]",,,fo fa,ฝ
+alph,"[""all""]",,,fo fan,ฟ
+alph,"[""all""]",,,yo yak,ย
+alph,"[""all""]",,,lo ling,ล
+alph,"[""all""]",,,wo wèn,ว
+alph,"[""all""]",,,lo joula,ฬ
+alph,"[""all""]",,,ho nohou,ฮ
+alph,[],,,ko kaï,ก
+alph,[],,,doesn't exist,ฃ
+alph,[],,,no nou,น
+alph,[],,,mo ma,ม
+alph,[],,,ro rua,ร
+alph,[],,,ho hyip,ห
+alph,[],,,o ang,อ
+digit,,,digit 1,neung,1
+digit,,,digit 2,sang,2
+digit,,,digit 3,saam,3
+digit,,,digit 4,si,4
+digit,,,digit 5,ha,5
+digit,,,digit 6,hok,6
+digit,,,digit 7,jet,7
+digit,,,digit 8,paet,8
+digit,,,digit 9,kao,9
+vowel,,,,h[eu]re (2),เอิ
+vowel,,,,h[eu]re,เออะ
+vowel,,,,œil,เอย
+vowel,,,,üa,เอือะ
+vowel,,,,oua,อัะ
+vowel,,,,t[o]rt (2),เอาะ
+vowel,,,,ao,เอา
+vowel,,,,t[o]rt,ออ
+vowel,,,,ïa,เอียะ
+word,1,KR-EN,and,láe,และ
+word,1,KR-EN,Arm ,khăen,แขน
+word,1,KR-EN,but,dtàe,แต่
+word,1,KR-EN,Car ,rót,รถ
+word,1,KR-EN,Ear ,hûu,หู
+word,1,KR-EN,Eyes ,dtaa,ตา
+word,1,KR-EN,Face ,nâa,หน้า
+word,1,KR-EN,Father ,phx,พ่อ
+word,1,KR-EN,Finger ,niu,นิ้ว
+word,1,KR-EN,Foot ,thâao,เท้า
+word,1,KR-EN,for,phûeua,เพื่อ
+word,1,KR-EN,from,jàak,จาก
+word,1,KR-EN,Hair ,phxm,ผม
+word,1,KR-EN,Hand ,mue,มือ
+word,1,KR-EN,Head ,hûa,หัว
+word,1,KR-EN,if,thâa,ถ้า
+word,1,KR-EN,in,nai,ใน
+word,1,KR-EN,Judge ,săan,ศาล
+word,1,KR-EN,Kids ,dèk,เด็ก
+word,1,KR-EN,Leg ,kăa,ขา
+word,1,KR-EN,Money ,ngern,เงิน
+word,1,KR-EN,Mother ,mâe,แม่
+word,1,KR-EN,Mouth ,bpàak,ปาก
+word,1,KR-EN,Neck ,khx,คอ
+word,1,KR-EN,Noodles ,sĕn,เส้น
+word,1,KR-EN,on,bon,บน
+word,1,KR-EN,or,rǔe,หรือ
+word,1,KR-EN,Salt ,glêua,เกลือ
+word,1,KR-EN,Shirt ,suea,เสื้อ
+word,1,KR-EN,Shoulder ,lâi,ไหล่
+word,1,KR-EN,Stomach ,eo,เอว
+word,1,KR-EN,Teacher ,khruu,ครู
+word,1,KR-EN,Teeth ,fan,ฟัน
+word,1,KR-EN,to be (attr),pĕn,เป็น
+word,1,KR-EN,to be (know),Rxbrū̂,รอบรู้
+word,1,KR-EN,to be (live),Xyū̀,อยู่
+word,1,KR-EN,to be (thing),khụ̄x,คือ
+word,1,KR-EN,To drink ,khîaw,เคี้ยว
+word,1,KR-EN,To run ,wing,วิ่ง
+word,1,KR-EN,To see ,hen,เห็น
+word,1,KR-EN,To smell ,glîn,กลิ่น
+word,1,KR-EN,To taste ,rót,รส
+word,1,KR-EN,To think ,khit,คิด
+word,1,KR-EN,Tongue ,lin,ลิ้น
+word,1,KR-EN,under,dtâi,ใต้
+word,1,KR-EN,Waist ,eo,เอว
+word,1,KR-EN,We ,răo,เรา
+word,1,KR-EN,Who ,khrai,ใคร
+word,1,KR-EN,with,gàp,กับ
+word,1,TH-EN,1000,pan,พัน
+word,1,TH-EN,1_000_000,Lan,ล้าน
+word,1,TH-EN,Beef ,nêua,เนื้อ
+word,1,TH-EN,Car ,rót,รถ
+word,1,TH-EN,Chicken ,kài,ไก่
+word,1,TH-EN,Chilies ,phrik,พริก
+word,1,TH-EN,digit 0,soun,ศูนย์
+word,1,TH-EN,Duck,phĕd (ป็),เป็ด
+word,1,TH-EN,Egg ,khài,ไข่
+word,1,TH-EN,Fish ,plâa,ปลา
+word,1,TH-EN,Friend ,p̄hỷn,เพื่อน
+word,1,TH-EN,He ,khăo,เขา
+word,1,TH-EN,House ,bâan,บ้าน
+word,1,TH-EN,I ,phŏm,ผม
+word,1,TH-EN,Pork ,mûu,หมู
+word,1,TH-EN,Rice ,kăao,ข้าว
+word,1,TH-EN,She ,tĕr,เธอ
+word,1,TH-EN,Shrimp ,kûng,กุ้ง
+word,1,TH-EN,Spicy,phĕd (ผ็),เผ็ด
+word,1,TH-EN,To come ,maa,มา
+word,1,TH-EN,To eat ,gin,กิน
+word,1,TH-EN,To go ,bpai,ไป
+word,1,TH-EN,To speak ,phûut,พูด
+word,1,TH-EN,Water ,nạm,น้ำ
+word,1,TH-EN,Yes ,chai,ใช่
+word,1,TH-EN,You ,kun,คุณ
+word,2,KR-EN,11,sip-et,11
+word,2,KR-EN,100,neung roï,100
+word,2,KR-EN,always,S̄emx,เสมอ
+word,2,KR-EN,Architect ,sathap-nik,สถาปนิก
+word,2,KR-EN,Army ,thahan,ทหาร
+word,2,KR-EN,Baking powder ,bpm-nak,ปั๊มหนัก
+word,2,KR-EN,Baking soda ,sx-diiam,โซเดียม
+word,2,KR-EN,because,phrá(-wà),เพราะว่า
+word,2,KR-EN,Chest ,nâa-xk,หน้าอก
+word,2,KR-EN,Clothes ,suea-phaa,เสื้อผ้า
+word,2,KR-EN,Coconut milk ,kathi,กะทิ
+word,2,KR-EN,Coriander ,phak-chii,ผักชี
+word,2,KR-EN,Cumin ,phrik-thai,พริกไทย
+word,2,KR-EN,Dancer ,nak-dtên,นักเต้น
+word,2,KR-EN,Doctor ,pháet-y,แพทย์
+word,2,KR-EN,Dress ,dèr-sà,เดรส
+word,2,KR-EN,Flour ,kăao-phx̀t,ข้าวโพด
+word,2,KR-EN,Garlic ,krathiam,กระเทียม
+word,2,KR-EN,Goodbye ,lā kxn,ลาก่อน
+word,2,KR-EN,Hip ,sà-phxk,สะโพก
+word,2,KR-EN,Hospital ,rxng-phayabàan,โรงพยาบาล
+word,2,KR-EN,How ,yàang-rai,อย่างไร
+word,2,KR-EN,Lawyer ,thnay-khwam,ทนายความ
+word,2,KR-EN,Lemongrass ,dtakhrai,ตะไคร้
+word,2,KR-EN,minus 1,Lop neung,!ไม่  ๑
+word,2,KR-EN,Nose ,chamûuk,จมูก
+word,2,KR-EN,Oil ,nam-mun,น้ำมัน
+word,2,KR-EN,Onion ,hûa-hxm,หัวหอม
+word,2,KR-EN,Pants ,kang-kxng,กางเกง
+word,2,KR-EN,Parents ,phx-mâe,พ่อแม่
+word,2,KR-EN,Phone ,tôr-sap,โทรศัพท์
+word,2,KR-EN,Pilot ,nak-bin,นักบิน
+word,2,KR-EN,plus 1,bouak neung,บวก  ๑
+word,2,KR-EN,Police ,dtam-rxwt,ตำรวจ
+word,2,KR-EN,Policeman ,dtam-rxwt,ตำรวจ
+word,2,KR-EN,School ,rxng-rîan,โรงเรียน
+word,2,KR-EN,Singer ,nak-rxwng,นักร้อง
+word,2,KR-EN,so,dang-nán,ดังนั้น
+word,2,KR-EN,Soldier ,thahan,ทหาร
+word,2,KR-EN,Soy sauce ,sii-iu,ซีอิ๊ว
+word,2,KR-EN,Student ,nak-rîan,นักเรียน
+word,2,KR-EN,Sugar ,nam-dtān,น้ำตาล
+word,2,KR-EN,times 2,khroun sang,คูณ  ๒
+word,2,KR-EN,To feel ,rûu-sèuk,รู้สึก
+word,2,KR-EN,To hear ,dâi-yin,ได้ยิน
+word,2,KR-EN,To work ,tam-ngaan,ทำงาน
+word,2,KR-EN,Train ,rót-fai,รถไฟ
+word,2,KR-EN,What ,à-rai,อะไร
+word,2,KR-EN,When ,meúa-rai,เมื่อไร
+word,2,KR-EN,Where ,tîi-nai,ที่ไหน
+word,2,KR-EN,Why ,tam-mai,ทำไม
+word,2,TH-EN,20,yi-sip,ยี่สิบ
+word,2,TH-EN,Book ,nangsue,หนังสือ
+word,2,TH-EN,Fish sauce ,nam-plaa,น้ำปลา
+word,2,TH-EN,Food ,āhān,อาหาร
+word,2,TH-EN,Hello ,s̄wạs̄dii,สวัสดี
+word,2,TH-EN,No ,mâi chai,ไม่ใช่
+word,2,TH-EN,Thank you ,k̄hx p khun,ขอบคุณ
+word,2,TH-EN,They ,phûak khăo,พวกเขา 
+word,2,TH-EN,Vinegar ,nam-som,น้ำส้ม
+word,2,TH-EN,You pluriel,phûak tĕr,พวกเธอ 
+word,3,KR-EN,Accountant ,nak-banchii,นักบัญชี
+word,3,KR-EN,Bicycle ,jak-ka-yan,จักรยาน
+word,3,KR-EN,Bus ,rót-doiy-săan,รถโดยสาร
+word,3,KR-EN,Businessman ,nak-thuri-kit,นักธุรกิจ
+word,3,TH-EN,Computer ,kxm-phiu-dtêu,คอมพิวเตอร์
+word,3,KR-EN,Engineer ,wit-sxw-khxn,วิศวกร
+word,3,TH-EN,Internet ,in-dtêu-net,อินเตอร์เน็ต
+word,3,KR-EN,Musician ,nak-dondtri,นักดนตรี
+word,3,KR-EN,neither,mâi + verb + rǔe,ไม่  หรือ
+word,3,KR-EN,Nurse ,phayabàan,พยาบาล
+word,3,KR-EN,Plane ,khrueang-bin,เครื่องบิน
+word,3,KR-EN,while,nai kà-nà-tîi,ในขณะที่
+word,1,KR-EN,(not) yet,yang,ยัง
+word,1,KR-EN,already,Læ̂w,แล้ว
+word,1,KR-EN,bad,thom,โทม
+word,1,KR-EN,bird,Nk,นก
+word,1,KR-EN,cat,Mæw,แมว
+word,1,KR-EN,cow,Wạw,วัว
+word,1,KR-EN,cut,phad,ปาด
+word,1,KR-EN,day,Wạn,วัน
+word,1,KR-EN,do not,Xỳā,อย่า
+word,1,KR-EN,dog,H̄mā,หมา
+word,1,KR-EN,elephant,Cĥāng,ช้าง
+word,1,KR-EN,ever,Khey,เคย
+word,1,KR-EN,fat,X̂wn,อ้วน
+word,1,KR-EN,good,Dī,ดี
+word,1,KR-EN,horse,M̂ā,ม้า
+word,1,KR-EN,human,Khn,คน
+word,1,KR-EN,job,Ngān,งาน
+word,1,KR-EN,meat,Neụ̄̂x,เนื้อ
+word,1,KR-EN,monkey,Ling,ลิง
+word,1,KR-EN,some,Bāng,บาง
+word,1,KR-EN,to do,Thả,ทำ
+word,1,KR-EN,to go,Pị,ไป
+word,1,KR-EN,to read,X̀ān,อ่าน
+word,1,KR-EN,to smell,Klìn,กลิ่น
+word,1,KR-EN,to speak,Phūd,พูด
+word,1,KR-EN,to write,K̄heīyn,เขียน
+word,1,KR-EN,vegetable,P̄hạk,ผัก
+word,1,KR-EN,year,Pī,ปี
+word,2,KR-EN,age,Xāyu,อายุ
+word,2,KR-EN,all,Thậngh̄md,ทั้งหมด
+word,2,KR-EN,birthday,Wạn keid,วันเกิด
+word,2,KR-EN,dessert (1),K̄hnm,ขนม
+word,2,KR-EN,everyone,Thuk khn,ทุกคน
+word,2,KR-EN,everything,Thuk xỳāng,ทุกอย่าง
+word,2,KR-EN,everywhere,Thuk thī̀,ทุกที่
+word,2,KR-EN,fruit,P̄hl mị̂,ผลไม้
+word,2,KR-EN,gift,K̄hxngk̄hwạỵ,ของขวัญ
+word,2,KR-EN,i did,C̄hạn thả,ฉันทำ
+word,2,KR-EN,i will,C̄hạn ca,ฉันจะ
+word,2,KR-EN,music,Dntrī,ดนตรี
+word,2,KR-EN,never,Mị̀ khey,ไม่เคย
+word,2,KR-EN,potato,Mạnf̄rạ̀ng,มันฝรั่ง
+word,2,KR-EN,rabbit,Krat̀āy,กระต่าย
+word,2,KR-EN,someone,Bāng khn,บางคน
+word,2,KR-EN,sometimes,Bāng khrậng,บางครั้ง
+word,2,KR-EN,spirit,Wiỵỵāṇ,วิญญาณ
+word,2,KR-EN,to feel,Rū̂s̄ụk,รู้สึก
+word,2,KR-EN,to listen,Pheụ̄̀x fạng,เพื่อฟัง
+word,2,KR-EN,to touch,S̄ạmp̄hạs̄,สัมผัส
+word,2,KR-EN,to watch,Pheụ̄̀x dū,เพื่อดู
+word,2,KR-EN,tomorrow,Phrùngnī̂,พรุ่งนี้
+word,2,KR-EN,yesterday,Meụ̄̀x wān,เมื่อวาน
+word,3,KR-EN,cook,Thả xāh̄ār,ทำอาหาร
+word,3,KR-EN,dessert (2),K̄hxngh̄wān,ของหวาน
+word,3,KR-EN,i am 10 years old,C̄hạn xāyu s̄ib pī,ฉันอายุสิบปี
+word,3,KR-EN,i come from,C̄hạn mā cāk,ฉันมาจาก
+word,3,KR-EN,i live in,C̄hạn xāṣ̄ạy xyū̀ nı,ฉันอาศัยอยู่ใน
+word,3,KR-EN,no one,Mị̀mī khır,ไม่มีใคร
+word,3,KR-EN,nothing,Mị̀mī xarị,ไม่มีอะไร
+word,3,KR-EN,nowhere,Mị̀mī thī̀h̄ịn ley,ไม่มีที่ไหนเลย
+word,3,KR-EN,something,Bāng s̄ìng bāng xỳāng,บางสิ่งบางอย่าง
+word,3,KR-EN,somewhere,Thī̀h̄ịn s̄ạk h̄æ̀ng,ที่ไหนสักแห่ง
+word,3,KR-EN,to come,Thī̀ ca mā,ที่จะมา
+word,3,KR-EN,to give,Thī̀ ca h̄ı̂,ที่จะให้
+word,3,KR-EN,to have,Pheụ̄̀x thī̀ ca mī,เพื่อที่จะมี
+word,3,KR-EN,to hear,Thī̀ ca dị̂yin,ที่จะได้ยิน
+word,3,KR-EN,to hit,Thī̀ ca tī,ที่จะตี
+word,3,KR-EN,to see,Pheụ̄̀x thī̀ ca dị̂ h̄ĕn,เพื่อที่จะได้เห็น
+word,3,KR-EN,to take,Thī̀ ca chı̂,ที่จะใช้
+word,3,KR-EN,to walk,Thī̀ ca dein,ที่จะเดิน
+word,3,KR-EN,too much,Māk keinpị,มากเกินไป

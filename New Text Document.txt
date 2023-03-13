@@ -1,0 +1,244 @@
+
+
+
+
+    ก (g) - as in "go"
+    ข (k) - as in "key"
+    ฃ (k) - as in "key"
+    ค (k) - as in "key"
+    ฅ (k) - as in "key"
+    ฆ (k) - as in "key"
+    ง (ng) - as in "sing"
+    จ (j) - as in "joke"
+    ฉ (ch) - as in "chat"
+    ช (ch) - as in "chat"
+    ซ (s) - as in "sing"
+    ฌ (ch) - as in "chat"
+    ญ (y) - as in "yes"
+    ฎ (d) - as in "dog"
+    ฏ (t) - as in "top"
+    ฐ (th) - as in "think"
+    ฑ (th) - as in "think"
+    ฒ (th) - as in "think"
+    ณ (n) - as in "no"
+    ด (d) - as in "dog"
+    ต (t) - as in "top"
+    ถ (th) - as in "think"
+    ท (th) - as in "think"
+    ธ (th) - as in "think"
+    น (n) - as in "no"
+    บ (b) - as in "boy"
+    ป (p) - as in "pop"
+    ผ (ph) - as in "phone"
+    ฝ (f) - as in "fan"
+    พ (ph) - as in "phone"
+    ฟ (f) - as in "fan"
+    ภ (ph) - as in "phone"
+    ม (m) - as in "man"
+    ย (y) - as in "yes"
+    ร (r) - as in "red"
+    ล (l) - as in "love"
+    ว (w) - as in "water"
+    ศ (s) - as in "sing"
+    ษ (s) - as in "sing"
+    ส (s) - as in "sing"
+    ห (h) - as in "house"
+    ฬ (l) - as in "love"
+    อ (aw) - as in "awe"
+    ฮ (h) - as in "house"
+
+
+
+
+
+
+In the Thai language, there are five main vowel sounds: อ (aw), อี (ee), อึ (ue), อื (uae), อุ (uu). These five vowel sounds can be combined with one another to form various vowel combinations. Here are a few examples of vowel combinations in Thai:
+
+    เอ (ae) - this combination is formed by combining อ (aw) and อี (ee)
+    โอ (o) - this combination is formed by combining อ (aw) and อุ (uu)
+    เอือ (uea) - this combination is formed by combining อื (uae) and ออ (aw)
+    โอะ (oa) - this combination is formed by combining อ (aw) and อื (uae)
+    เอีย (ia) - this combination is formed by combining อี (ee) and อ (aw)
+    เอา (ao) - this combination is formed by combining อ (aw) and อุ (uu)
+    เอียว (iao) - this combination is formed by combining อี (ee) and อุ (uu)
+    เอือน (uean) - this combination is formed by combining อื (uae) and อน (an)
+    เอียง (iang) - this combination is formed by combining อี (ee) and อง (ang)
+    เอึอาย (ueai) - this combination is formed by combining อึ (ue) and อาย (ai)
+
+
+
+also it's important to note that the final consonant of a syllable can affect how the vowel sounds.
+It's worth noting that the combinations are limitless and depend on the context of the word, the tone of the word, the final consonant and the position of the vowel in the word.
+Please keep in mind that Thai writing does not use spaces between words, and this can also affect the sound of the vowels.
+
+
+
+
+
+It's a good start but the code doesn't do what i want. I want it to:
+1. Randomly pick one of the source languages.
+2. Randomly pick a destination language among the two remaining languages.
+3. Randomly pick a row in the dataframe.
+4. Display to the user the names of the source language, destination language and the word to be translated.
+5. Randomly pick 3 incorrect words in the column of the destination language.
+6. Add the correct translation to these 3 pick.
+7. Display all 4 answer options to the user.
+8. Get the user input (using 4 clickable buttons if possible).
+9. Conclude whether the given answer was correct.
+10. Restart the loop so that a new question is presented to the user.
+
+
+
+
+
+
+
+Hello - สวัสดี (s̄wạs̄dii)
+Thank you - ขอบคุณ (k̄hx p khun)
+Goodbye - ลาก่อน (lā kxn)
+Yes - ใช่ (chai)
+No - ไม่ใช่ (mâi chai)
+
+I - ผม (phŏm)
+You - คุณ (kun)
+He - เขา (khăo)
+She - เธอ (tĕr)
+We - เรา (răo)
+They - เขา(เธอ,พวกเขา) (khăo (tĕr,phûak khăo))
+
+To eat - กิน (gin)
+To drink - เคี้ยว (khîaw)
+To go - ไป (bpai)
+To come - มา (maa)
+To see - เห็น (hen)
+To hear - ได้ยิน (dâi-yin)
+To speak - พูด (phûut)
+
+Friend - เพื่อน (p̄hỷn)
+House - บ้าน (bâan)
+Car - รถ (rót)
+Book - หนังสือ (nangsue)
+Money - เงิน (ngern)
+
+Food - อาหาร (āhān)
+Water - น้ำ (nạm)
+Rice - ข้าว (kăao)
+Noodles - เส้น (sĕn)
+Beef - เนื้อเป็ด (nêua-bpet)
+Chicken - ไก่ (kài)
+Pork - หมู (mûu)
+Fish - ปลา (plâa)
+Shrimp - กุ้ง (kûng)
+Egg - ไข่ (khài)
+Chilies - พริก (phrik)
+Garlic - กระเทียม (krathiam)
+Onion - หัวหอม (hûa-hxm)
+Lemongrass - ตะไคร้ (dtakhrai)
+Coriander - ผักชี (phak-chii)
+Cumin - พริกไทย (phrik-thai)
+Coconut milk - กะทิ (kathi)
+Sugar - น้ำตาล (nam-dtān)
+Salt - เกลือ (glêua)
+Flour - ข้าวโพด (kăao-phx̀t)
+Baking powder - ปั๊มหนัก (bpm-nak)
+Baking soda - โซเดียม (sx-diiam)
+Oil - น้ำมัน (nam-mun)
+Soy sauce - ซีอิ๊ว (sii-iu)
+Fish sauce - น้ำปลา (nam-plaa)
+Vinegar - น้ำส้ม (nam-som)
+
+Head - หัว (hûa)
+Face - หน้า (nâa)
+Eyes - ตา (dtaa)
+Nose - จมูก (chamûuk)
+Mouth - ปาก (bpàak)
+Tongue - ลิ้น (lin)
+Teeth - ฟัน (fan)
+Ear - หู (hûu)
+Hair - ผม (phxm)
+Neck - คอ (khx)
+Shoulder - ไหล่ (lâi)
+Arm - แขน (khăen)
+Hand - มือ (mue)
+Finger - นิ้ว (niu)
+Chest - หน้าอก (nâa-xk)
+Stomach - เอว (eo)
+Waist - เอว (eo)
+Hip - สะโพก (sà-phxk)
+Leg - ขา (kăa)
+Foot - เท้า (thâao)
+
+Hospital - โรงพยาบาล (rxng-phayabàan)
+Doctor - แพทย์ (pháet-y)
+Nurse - พยาบาล (phayabàan)
+Police - ตำรวจ (dtam-rxwt)
+Policeman - ตำรวจ (dtam-rxwt)
+Army - ทหาร (thahan)
+Soldier - ทหาร (thahan)
+School - โรงเรียน (rxng-rîan)
+Teacher - ครู (khruu)
+Student - นักเรียน (nak-rîan)
+Lawyer - ทนายความ (thnay-khwam)
+Judge - ศาล (săan)
+Engineer - วิศวกร (wit-sxw-khxn)
+Architect - สถาปนิก (sathap-nik)
+Accountant - นักบัญชี (nak-banchii)
+Businessman - นักธุรกิจ (nak-thuri-kit)
+Businesswoman - นักธุรกิจหญิง (nak-thuri-kit-ying)
+Pilot - นักบิน (nak-bin)
+Air hostess - นางแอร์ (nang-aer)
+Musician - นักดนตรี (nak-dondtri)
+Singer - นักร้อง (nak-rxwng)
+Dancer - นักเต้น (nak-dtên)
+
+Clothes - เสื้อผ้า (suea-phaa)
+Shirt - เสื้อ (suea)
+Pants - กางเกง (kang-kxng)
+Dress - เดรส (dèr-sà)
+
+Parents - พ่อแม่ (phx-mâe)
+Father - พ่อ (phx)
+Mother - แม่ (mâe)
+
+Kids - เด็ก (dèk)
+
+Train - รถไฟ (rót-fai)
+Plane - เครื่องบิน (khrueang-bin)
+
+To run - วิ่ง (wing)
+To smell - กลิ่น (glîn)
+To taste - รส (rót)
+To feel - รู้สึก (rûu-sèuk)
+To think - คิด (khit)
+
+Who - ใคร (khrai)
+What - อะไร (à-rai)
+When - เมื่อไร (meúa-rai)
+Where - ที่ไหน (tîi-nai)
+Why - ทำไม (tam-mai)
+How - อย่างไร (yàang-rai)
+
+To work - ทำงาน (tam-ngaan)
+
+Phone - โทรศัพท์ (tôr-sap)
+Computer - คอมพิวเตอร์ (kxm-phiu-dtêu)
+Internet - อินเตอร์เน็ต (in-dtêu-net)
+
+Car - รถ (rót)
+Bicycle - จักรยาน (jak-khrai-yan)
+Bus - รถโดยสาร (rót-doiy-săan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
